@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\ajavaid\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(14,23): warning C4101: 'z': unreferenced local variable
+C:\Users\ajavaid\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(14,9): warning C4101: 'x': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\ajavaid\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
