@@ -12,10 +12,7 @@ using namespace std;
 int main()
 {
     int x[10], y = 5, z;
-    //char mychar = 'x';
-    //string myst = "Hello How are you?";
-    //char mychar2[6] = "Hello";
-    //enum TRAFFIC {RED = 100,GREEN = 500,YELLOW = 123,ORANGE = 567};
+
     vector<int> vect1(4);
 
     vect1.at(0) = 100;
